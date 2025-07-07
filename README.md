@@ -68,8 +68,8 @@ AI Engineer | Innovator | Builder of Cool Stuff
 ## 📂 Some Projects
 - **Sentinel Collar (In Progress)** – Wearable AI Assistant w/ vitals + LLM-based mood detection  
 - **Personal LLM Integration** - Ran Models like llama-2, codegemma, llarva, llama-3.1 (4-bit quantization), natively on my system
-- **Room Automation** – Smart room controller built in 7 days  
-- **House Price Predictor** – ML model using real estate datasets  
+- **Room Automation** – Smart room lights equipped with PIR sensors to save electricity when not in use
+- **2D Shooter Game** - A simple shooter game to understand the loops, event handling, game mechanics, etc. 
 
 ## 📫 Let’s Connect
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantdua686@gmail.com)
