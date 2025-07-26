@@ -44,6 +44,7 @@ AI Engineer | Innovator | Builder of Cool Stuff
     <td>
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Open WebUI-007ACC?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-3B3B3B?style=for-the-badge&logo=chainlink&logoColor=white"/>
     </td>
   </tr>
   <tr>
