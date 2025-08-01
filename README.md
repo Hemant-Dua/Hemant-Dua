@@ -67,9 +67,9 @@ AI Engineer | Innovator | Builder of Cool Stuff
 </div>
 
 ## 📂 Some Projects
-- **Sentinel Collar (In Progress)** – Wearable AI Assistant w/ vitals + LLM-based mood detection  
+- **Sentinel Collar (In Progress)** – Wearable AI Assistant w/ vitals + LLM-based mood detection.
 - **Project Y.A.S.H.I.K.A.** – Engineered a native personal AI system running quantized LLaMA-2, Gemma for real-time, offline intelligence and command autonomy.
-- **Room Automation** – Smart room lights equipped with PIR sensors to save electricity when not in use
+- **Room Automation** – Smart room lights equipped with PIR sensors to save electricity when not in use.
 - **2D Shooter Game** - A simple shooter game to understand the loops, event handling, game mechanics, etc. 
 
 ## 📫 Let’s Connect
