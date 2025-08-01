@@ -68,7 +68,7 @@ AI Engineer | Innovator | Builder of Cool Stuff
 
 ## 📂 Some Projects
 - **Sentinel Collar (In Progress)** – Wearable AI Assistant w/ vitals + LLM-based mood detection  
-- **Personal LLM Integration** - Ran Models like llama-2, codegemma, llarva, llama-3.1 (4-bit quantization), natively on my system
+- **Project Y.A.S.H.I.K.A.** – Engineered a native personal AI system running quantized LLaMA-2, Gemma for real-time, offline intelligence and command autonomy.
 - **Room Automation** – Smart room lights equipped with PIR sensors to save electricity when not in use
 - **2D Shooter Game** - A simple shooter game to understand the loops, event handling, game mechanics, etc. 
 
